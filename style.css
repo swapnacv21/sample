@@ -1,0 +1,10 @@
+.readnowbtn{
+    padding: 12px 18px;
+    border-style: solid;
+    border-color:rgb(52, 234, 174) ;
+    border-width: 1px;
+    border-radius: 9px;
+    text-decoration: none;
+    color:black;
+    background-color:rgb(52, 234, 174);
+}
